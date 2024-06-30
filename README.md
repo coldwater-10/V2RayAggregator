@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `174`
+merge nodes w/o dup: `12150`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -548,6 +548,52 @@ merge nodes w/o dup: `174`
 - [Nodefree.org](https://github.com/Fukki-Z/nodefree), number of nodes: `20`
 - [mianfeifq/share](https://github.com/mianfeifq/share), number of nodes: `144`
 - [FiFier/v2rayShare](https://github.com/FiFier/v2rayShare), number of nodes: `20`
+- [AlienVPN402](https://github.com/AlienVPN402), number of nodes: `659`
+- [huwo1/proxy_nodes](https://bitbucket.org/huwo1/proxy_nodes/raw/b90856fe7cb9c666223f3ad41c87d0e60c711590/proxy.md), number of nodes: `21`
+- [irancpi](https://t.me/irancpi_vpn), number of nodes: `178`
+- [muma16fx](https://muma16fx.netlify.app), number of nodes: `20`
+- [AzadNet](https://t.me/AzadNet), number of nodes: `845`
+- [Flik6](https://github.com/Flik6), number of nodes: `102`
+- [Huibqr](https://github.com/Huibq), number of nodes: `36`
+- [Kwinshadow](https://github.com/Kwinshadow), number of nodes: `3`
+- [Leon406](https://github.com/Leon406), number of nodes: `1785`
+- [Lewis-1217](https://github.com/Lewis-1217), number of nodes: `39`
+- [Mohammadgb0078](https://github.com/Mohammadgb0078), number of nodes: `46`
+- [Mr8AHAL](https://github.com/Mr8AHAL), number of nodes: `26`
+- [RescueNet](https://github.com/RescueNet), number of nodes: `102`
+- [surfboardv2ray](https://t.me/surfboardv2ray), number of nodes: `572`
+- [ZywChannel](https://github.com/ZywChannel), number of nodes: `166`
+- [a2470982985/getNode](https://github.com/a2470982985), number of nodes: `102`
+- [aiboboxx/v2rayfree](https://github.com/aiboboxx), number of nodes: `58`
+- [dingyu0321/linshi](https://github.com/dingyu0321), number of nodes: `115`
+- [ermaozi/get_subscribe](https://github.com/ermaozi), number of nodes: `20`
+- [ermaozi01/free_clash_vpn](https://github.com/ermaozi01), number of nodes: `18`
+- [fanqiangfeee/freefq](https://github.com/fanqiangfeee), number of nodes: `55`
+- [xiyaowong/freeFQ](https://github.com/xiyaowong), number of nodes: `156`
+- [free18/v2ray](https://github.com/free18), number of nodes: `28`
+- [hkaa0/permalink](https://github.com/hkaa0), number of nodes: `64`
+- [hsb4657/v2ray](https://github.com/hsb4657), number of nodes: `20`
+- [jsnjsnwbtwbt/2D2F](https://github.com/jsnjsnwbtwbt), number of nodes: `9`
+- [junwei380](https://github.com/junwei380), number of nodes: `15`
+- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `14`
+- [mheidari98](https://github.com/mheidari98), number of nodes: `9726`
+- [mlabalabala/v2ray-node](https://github.com/mlabalabala), number of nodes: `58`
+- [resasanian/Mirza](https://github.com/resasanian), number of nodes: `71`
+- [ripaojiedian/freenode](https://github.com/ripaojiedian), number of nodes: `27`
+- [sun9426/v2ray](https://github.com/sun9426), number of nodes: `6`
+- [ts-sf/fly](https://github.com/ts-sf), number of nodes: `201`
+- [voken100g/AutoSSR](https://github.com/voken100g), number of nodes: `19`
+- [w1770946466/Auto_proxy](https://github.com/w1770946466), number of nodes: `421`
+- [zengfr/free-vpn-subscribe](https://github.com/zengfr), number of nodes: `2316`
+- [sub.pmsub.me/base64](https://sub.pmsub.me/base64), number of nodes: `2`
+- [yebekhe/TVC](https://github.com/yebekhe), number of nodes: `248`
+- [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe), number of nodes: `69`
+- [sarinaesmailzadeh/V2Hub](https://github.com/sarinaesmailzadeh), number of nodes: `39`
+- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei), number of nodes: `6019`
+- [coldwater-10/V2Hub3](https://github.com/coldwater-10/V2Hub3), number of nodes: `272`
+- [coldwater-10/V2Hub4](https://github.com/coldwater-10/V2Hub4), number of nodes: `240`
+- [vpnhat](https://t.me/vpnhat), number of nodes: `25`
+- [wangcai](https://t.me/wangcai_8), number of nodes: `219`
 
 ## Softwares
 
