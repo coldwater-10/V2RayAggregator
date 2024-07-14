@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `6328`
+merge nodes w/o dup: `6336`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -550,14 +550,14 @@ merge nodes w/o dup: `6328`
 - [FiFier/v2rayShare](https://github.com/FiFier/v2rayShare), number of nodes: `18`
 - [AlienVPN402](https://github.com/AlienVPN402), number of nodes: `659`
 - [huwo1/proxy_nodes](https://bitbucket.org/huwo1/proxy_nodes/raw/b90856fe7cb9c666223f3ad41c87d0e60c711590/proxy.md), number of nodes: `21`
-- [irancpi](https://t.me/irancpi_vpn), number of nodes: `173`
+- [irancpi](https://t.me/irancpi_vpn), number of nodes: `171`
 - [muma16fx](https://muma16fx.netlify.app), number of nodes: `20`
 - [AzadNet](https://t.me/AzadNet), number of nodes: `845`
-- [Huibqr](https://github.com/Huibq), number of nodes: `37`
+- [Huibqr](https://github.com/Huibq), number of nodes: `39`
 - [Kwinshadow](https://github.com/Kwinshadow), number of nodes: `11`
 - [Leon406](https://github.com/Leon406), number of nodes: `1437`
 - [Lewis-1217](https://github.com/Lewis-1217), number of nodes: `39`
-- [Mohammadgb0078](https://github.com/Mohammadgb0078), number of nodes: `45`
+- [Mohammadgb0078](https://github.com/Mohammadgb0078), number of nodes: `39`
 - [Mr8AHAL](https://github.com/Mr8AHAL), number of nodes: `26`
 - [surfboardv2ray](https://t.me/surfboardv2ray), number of nodes: `498`
 - [ZywChannel](https://github.com/ZywChannel), number of nodes: `166`
@@ -584,7 +584,7 @@ merge nodes w/o dup: `6328`
 - [yebekhe/TVC](https://github.com/yebekhe), number of nodes: `218`
 - [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe), number of nodes: `63`
 - [sarinaesmailzadeh/V2Hub](https://github.com/sarinaesmailzadeh), number of nodes: `39`
-- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei), number of nodes: `5924`
+- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei), number of nodes: `5934`
 - [coldwater-10/V2Hub3](https://github.com/coldwater-10/V2Hub3), number of nodes: `278`
 - [coldwater-10/V2Hub4](https://github.com/coldwater-10/V2Hub4), number of nodes: `251`
 - [coldwater-10/V2Hub5](https://github.com/coldwater-10/V2Hub5), number of nodes: `398`
