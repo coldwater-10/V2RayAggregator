@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `6417`
+merge nodes w/o dup: `6400`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -553,13 +553,13 @@ merge nodes w/o dup: `6417`
 - [irancpi](https://t.me/irancpi_vpn), number of nodes: `181`
 - [muma16fx](https://muma16fx.netlify.app), number of nodes: `20`
 - [AzadNet](https://t.me/AzadNet), number of nodes: `845`
-- [Huibqr](https://github.com/Huibq), number of nodes: `34`
+- [Huibqr](https://github.com/Huibq), number of nodes: `33`
 - [Kwinshadow](https://github.com/Kwinshadow), number of nodes: `4`
 - [Leon406](https://github.com/Leon406), number of nodes: `1534`
 - [Lewis-1217](https://github.com/Lewis-1217), number of nodes: `39`
 - [Mohammadgb0078](https://github.com/Mohammadgb0078), number of nodes: `31`
 - [Mr8AHAL](https://github.com/Mr8AHAL), number of nodes: `26`
-- [surfboardv2ray](https://t.me/surfboardv2ray), number of nodes: `485`
+- [surfboardv2ray](https://t.me/surfboardv2ray), number of nodes: `482`
 - [ZywChannel](https://github.com/ZywChannel), number of nodes: `166`
 - [aiboboxx/v2rayfree](https://github.com/aiboboxx), number of nodes: `83`
 - [dingyu0321/linshi](https://github.com/dingyu0321), number of nodes: `115`
@@ -571,7 +571,7 @@ merge nodes w/o dup: `6417`
 - [hkaa0/permalink](https://github.com/hkaa0), number of nodes: `10`
 - [jsnjsnwbtwbt/2D2F](https://github.com/jsnjsnwbtwbt), number of nodes: `9`
 - [junwei380](https://github.com/junwei380), number of nodes: `15`
-- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `7`
+- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `9`
 - [mlabalabala/v2ray-node](https://github.com/mlabalabala), number of nodes: `58`
 - [peasoft/NoMoreWalls](https://github.com/peasoft), number of nodes: `139`
 - [resasanian/Mirza](https://github.com/resasanian), number of nodes: `71`
