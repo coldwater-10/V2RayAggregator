@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `6466`
+merge nodes w/o dup: `6195`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -554,14 +554,14 @@ merge nodes w/o dup: `6466`
 - [muma16fx](https://muma16fx.netlify.app), number of nodes: `20`
 - [AzadNet](https://t.me/AzadNet), number of nodes: `845`
 - [Huibqr](https://github.com/Huibq), number of nodes: `36`
-- [Kwinshadow](https://github.com/Kwinshadow), number of nodes: `2`
-- [Leon406](https://github.com/Leon406), number of nodes: `1568`
+- [Kwinshadow](https://github.com/Kwinshadow), number of nodes: `1`
+- [Leon406](https://github.com/Leon406), number of nodes: `1323`
 - [Lewis-1217](https://github.com/Lewis-1217), number of nodes: `39`
-- [Mohammadgb0078](https://github.com/Mohammadgb0078), number of nodes: `38`
+- [Mohammadgb0078](https://github.com/Mohammadgb0078), number of nodes: `35`
 - [Mr8AHAL](https://github.com/Mr8AHAL), number of nodes: `26`
-- [surfboardv2ray](https://t.me/surfboardv2ray), number of nodes: `492`
+- [surfboardv2ray](https://t.me/surfboardv2ray), number of nodes: `471`
 - [ZywChannel](https://github.com/ZywChannel), number of nodes: `166`
-- [aiboboxx/v2rayfree](https://github.com/aiboboxx), number of nodes: `43`
+- [aiboboxx/v2rayfree](https://github.com/aiboboxx), number of nodes: `25`
 - [dingyu0321/linshi](https://github.com/dingyu0321), number of nodes: `115`
 - [ermaozi/get_subscribe](https://github.com/ermaozi), number of nodes: `20`
 - [ermaozi01/free_clash_vpn](https://github.com/ermaozi01), number of nodes: `18`
@@ -571,9 +571,9 @@ merge nodes w/o dup: `6466`
 - [hkaa0/permalink](https://github.com/hkaa0), number of nodes: `10`
 - [jsnjsnwbtwbt/2D2F](https://github.com/jsnjsnwbtwbt), number of nodes: `9`
 - [junwei380](https://github.com/junwei380), number of nodes: `15`
-- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `17`
+- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `9`
 - [mlabalabala/v2ray-node](https://github.com/mlabalabala), number of nodes: `58`
-- [peasoft/NoMoreWalls](https://github.com/peasoft), number of nodes: `135`
+- [peasoft/NoMoreWalls](https://github.com/peasoft), number of nodes: `133`
 - [resasanian/Mirza](https://github.com/resasanian), number of nodes: `71`
 - [ripaojiedian/freenode](https://github.com/ripaojiedian), number of nodes: `22`
 - [sun9426/v2ray](https://github.com/sun9426), number of nodes: `6`
@@ -581,13 +581,13 @@ merge nodes w/o dup: `6466`
 - [voken100g/AutoSSR](https://github.com/voken100g), number of nodes: `19`
 - [w1770946466/Auto_proxy](https://github.com/w1770946466), number of nodes: `421`
 - [sub.pmsub.me/base64](https://sub.pmsub.me/base64), number of nodes: `2`
-- [yebekhe/TVC](https://github.com/yebekhe), number of nodes: `278`
-- [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe), number of nodes: `68`
+- [yebekhe/TVC](https://github.com/yebekhe), number of nodes: `272`
+- [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe), number of nodes: `66`
 - [sarinaesmailzadeh/V2Hub](https://github.com/sarinaesmailzadeh), number of nodes: `39`
-- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei), number of nodes: `5961`
-- [coldwater-10/V2Hub3](https://github.com/coldwater-10/V2Hub3), number of nodes: `277`
-- [coldwater-10/V2Hub4](https://github.com/coldwater-10/V2Hub4), number of nodes: `258`
-- [coldwater-10/V2Hub5](https://github.com/coldwater-10/V2Hub5), number of nodes: `361`
+- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei), number of nodes: `5918`
+- [coldwater-10/V2Hub3](https://github.com/coldwater-10/V2Hub3), number of nodes: `261`
+- [coldwater-10/V2Hub4](https://github.com/coldwater-10/V2Hub4), number of nodes: `246`
+- [coldwater-10/V2Hub5](https://github.com/coldwater-10/V2Hub5), number of nodes: `352`
 - [vpnhat](https://t.me/vpnhat), number of nodes: `11`
 - [wangcai](https://t.me/wangcai_8), number of nodes: `5`
 
