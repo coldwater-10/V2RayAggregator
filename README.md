@@ -584,7 +584,7 @@ merge nodes w/o dup: `5567`
 - [yebekhe/TVC](https://github.com/yebekhe), number of nodes: `210`
 - [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe), number of nodes: `49`
 - [sarinaesmailzadeh/V2Hub](https://github.com/sarinaesmailzadeh), number of nodes: `39`
-- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei), number of nodes: `3283`
+- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei), number of nodes: `3279`
 - [coldwater-10/V2Hub3](https://github.com/coldwater-10/V2Hub3), number of nodes: `293`
 - [coldwater-10/V2Hub4](https://github.com/coldwater-10/V2Hub4), number of nodes: `255`
 - [coldwater-10/V2Hub5](https://github.com/coldwater-10/V2Hub5), number of nodes: `294`
