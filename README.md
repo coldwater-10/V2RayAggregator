@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `5167`
+merge nodes w/o dup: `5162`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -561,7 +561,7 @@ merge nodes w/o dup: `5167`
 - [Mohammadgb0078](https://github.com/Mohammadgb0078), number of nodes: `26`
 - [Mr8AHAL](https://github.com/Mr8AHAL), number of nodes: `26`
 - [RescueNet](https://github.com/RescueNet), number of nodes: `79`
-- [surfboardv2ray](https://t.me/surfboardv2ray), number of nodes: `678`
+- [surfboardv2ray](https://t.me/surfboardv2ray), number of nodes: `705`
 - [ZywChannel](https://github.com/ZywChannel), number of nodes: `166`
 - [a2470982985/getNode](https://github.com/a2470982985), number of nodes: `79`
 - [aiboboxx/v2rayfree](https://github.com/aiboboxx), number of nodes: `145`
@@ -576,14 +576,14 @@ merge nodes w/o dup: `5167`
 - [mlabalabala/v2ray-node](https://github.com/mlabalabala), number of nodes: `58`
 - [peasoft/NoMoreWalls](https://github.com/peasoft), number of nodes: `144`
 - [resasanian/Mirza](https://github.com/resasanian), number of nodes: `71`
-- [ripaojiedian/freenode](https://github.com/ripaojiedian), number of nodes: `27`
+- [ripaojiedian/freenode](https://github.com/ripaojiedian), number of nodes: `22`
 - [sun9426/v2ray](https://github.com/sun9426), number of nodes: `6`
 - [ts-sf/fly](https://github.com/ts-sf), number of nodes: `201`
 - [voken100g/AutoSSR](https://github.com/voken100g), number of nodes: `19`
 - [w1770946466/Auto_proxy](https://github.com/w1770946466), number of nodes: `421`
 - [sub.pmsub.me/base64](https://sub.pmsub.me/base64), number of nodes: `2`
 - [yebekhe/TVC](https://github.com/yebekhe), number of nodes: `210`
-- [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe), number of nodes: `49`
+- [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe), number of nodes: `51`
 - [sarinaesmailzadeh/V2Hub](https://github.com/sarinaesmailzadeh), number of nodes: `39`
 - [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei), number of nodes: `3390`
 - [coldwater-10/V2Hub3](https://github.com/coldwater-10/V2Hub3), number of nodes: `388`
