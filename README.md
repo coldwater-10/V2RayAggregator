@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `5032`
+merge nodes w/o dup: `5030`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -553,7 +553,7 @@ merge nodes w/o dup: `5032`
 - [muma16fx](https://muma16fx.netlify.app), number of nodes: `20`
 - [AzadNet](https://t.me/AzadNet), number of nodes: `715`
 - [Flik6](https://github.com/Flik6), number of nodes: `71`
-- [Huibqr](https://github.com/Huibq), number of nodes: `36`
+- [Huibqr](https://github.com/Huibq), number of nodes: `33`
 - [Kwinshadow](https://github.com/Kwinshadow), number of nodes: `2`
 - [Leon406](https://github.com/Leon406), number of nodes: `1163`
 - [Lewis-1217](https://github.com/Lewis-1217), number of nodes: `39`
@@ -582,7 +582,7 @@ merge nodes w/o dup: `5032`
 - [w1770946466/Auto_proxy](https://github.com/w1770946466), number of nodes: `421`
 - [sub.pmsub.me/base64](https://sub.pmsub.me/base64), number of nodes: `2`
 - [yebekhe/TVC](https://github.com/yebekhe), number of nodes: `226`
-- [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe), number of nodes: `46`
+- [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe), number of nodes: `44`
 - [sarinaesmailzadeh/V2Hub](https://github.com/sarinaesmailzadeh), number of nodes: `39`
 - [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei), number of nodes: `3438`
 - [coldwater-10/V2Hub3](https://github.com/coldwater-10/V2Hub3), number of nodes: `351`
