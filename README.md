@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `4745`
+merge nodes w/o dup: `4747`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -549,7 +549,7 @@ merge nodes w/o dup: `4745`
 - [FiFier/v2rayShare](https://github.com/FiFier/v2rayShare), number of nodes: `18`
 - [AlienVPN402](https://github.com/AlienVPN402), number of nodes: `659`
 - [huwo1/proxy_nodes](https://bitbucket.org/huwo1/proxy_nodes/raw/b90856fe7cb9c666223f3ad41c87d0e60c711590/proxy.md), number of nodes: `21`
-- [hamidimorteza680](https://freevpn878.hamidimorteza680.workers.dev/sub), number of nodes: `185`
+- [hamidimorteza680](https://freevpn878.hamidimorteza680.workers.dev/sub), number of nodes: `186`
 - [irancpi](https://t.me/irancpi_vpn), number of nodes: `1`
 - [muma16fx](https://muma16fx.netlify.app), number of nodes: `20`
 - [AzadNet](https://t.me/AzadNet), number of nodes: `715`
