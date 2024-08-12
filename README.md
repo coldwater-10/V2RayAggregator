@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `4829`
+merge nodes w/o dup: `4838`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -584,7 +584,7 @@ merge nodes w/o dup: `4829`
 - [yebekhe/TVC](https://github.com/yebekhe), number of nodes: `240`
 - [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe), number of nodes: `47`
 - [sarinaesmailzadeh/V2Hub](https://github.com/sarinaesmailzadeh), number of nodes: `39`
-- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei), number of nodes: `3649`
+- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei), number of nodes: `3650`
 - [coldwater-10/V2Hub3](https://github.com/coldwater-10/V2Hub3), number of nodes: `227`
 - [coldwater-10/V2Hub4](https://github.com/coldwater-10/V2Hub4), number of nodes: `76`
 - [coldwater-10/V2Hub5](https://github.com/coldwater-10/V2Hub5), number of nodes: `116`
