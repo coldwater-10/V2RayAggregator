@@ -553,7 +553,7 @@ merge nodes w/o dup: `4724`
 - [muma16fx](https://muma16fx.netlify.app), number of nodes: `20`
 - [AzadNet](https://t.me/AzadNet), number of nodes: `715`
 - [Flik6](https://github.com/Flik6), number of nodes: `50`
-- [Huibqr](https://github.com/Huibq), number of nodes: `40`
+- [Huibqr](https://github.com/Huibq), number of nodes: `39`
 - [Kwinshadow](https://github.com/Kwinshadow), number of nodes: `4`
 - [Lewis-1217](https://github.com/Lewis-1217), number of nodes: `39`
 - [Mohammadgb0078](https://github.com/Mohammadgb0078), number of nodes: `24`
