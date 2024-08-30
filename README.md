@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `4821`
+merge nodes w/o dup: `4812`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -546,7 +546,6 @@ merge nodes w/o dup: `4821`
 ### node sources
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), number of nodes: `92`
 - [Nodefree.org](https://github.com/Fukki-Z/nodefree), number of nodes: `28`
-- [FiFier/v2rayShare](https://github.com/FiFier/v2rayShare), number of nodes: `18`
 - [AlienVPN402](https://github.com/AlienVPN402), number of nodes: `659`
 - [huwo1/proxy_nodes](https://bitbucket.org/huwo1/proxy_nodes/raw/b90856fe7cb9c666223f3ad41c87d0e60c711590/proxy.md), number of nodes: `21`
 - [hamidimorteza680](https://freevpn878.hamidimorteza680.workers.dev/sub), number of nodes: `186`
@@ -572,7 +571,7 @@ merge nodes w/o dup: `4821`
 - [hkaa0/permalink](https://github.com/hkaa0), number of nodes: `10`
 - [hsb4657/v2ray](https://github.com/hsb4657), number of nodes: `41`
 - [junwei380](https://github.com/junwei380), number of nodes: `15`
-- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `6`
+- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `9`
 - [mlabalabala/v2ray-node](https://github.com/mlabalabala), number of nodes: `58`
 - [peasoft/NoMoreWalls](https://github.com/peasoft), number of nodes: `153`
 - [resasanian/Mirza](https://github.com/resasanian), number of nodes: `87`
@@ -583,7 +582,7 @@ merge nodes w/o dup: `4821`
 - [w1770946466/Auto_proxy](https://github.com/w1770946466), number of nodes: `421`
 - [sub.pmsub.me/base64](https://sub.pmsub.me/base64), number of nodes: `2`
 - [yebekhe/TVC](https://github.com/yebekhe), number of nodes: `260`
-- [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe), number of nodes: `45`
+- [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe), number of nodes: `48`
 - [sarinaesmailzadeh/V2Hub](https://github.com/sarinaesmailzadeh), number of nodes: `39`
 - [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei), number of nodes: `4757`
 - [coldwater-10/V2Hub3](https://github.com/coldwater-10/V2Hub3), number of nodes: `268`
