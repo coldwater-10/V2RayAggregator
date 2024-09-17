@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `3648`
+merge nodes w/o dup: `3690`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -545,6 +545,8 @@ merge nodes w/o dup: `3648`
 
 ### node sources
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), number of nodes: `150`
+- [Nodefree.org](https://github.com/Fukki-Z/nodefree), number of nodes: `28`
+- [FiFier/v2rayShare](https://github.com/FiFier/v2rayShare), number of nodes: `18`
 - [AlienVPN402](https://github.com/AlienVPN402), number of nodes: `659`
 - [huwo1/proxy_nodes](https://bitbucket.org/huwo1/proxy_nodes/raw/b90856fe7cb9c666223f3ad41c87d0e60c711590/proxy.md), number of nodes: `21`
 - [hamidimorteza680](https://freevpn878.hamidimorteza680.workers.dev/sub), number of nodes: `187`
@@ -570,11 +572,11 @@ merge nodes w/o dup: `3648`
 - [hkaa0/permalink](https://github.com/hkaa0), number of nodes: `10`
 - [hsb4657/v2ray](https://github.com/hsb4657), number of nodes: `35`
 - [junwei380](https://github.com/junwei380), number of nodes: `15`
-- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `16`
+- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `31`
 - [mlabalabala/v2ray-node](https://github.com/mlabalabala), number of nodes: `58`
 - [peasoft/NoMoreWalls](https://github.com/peasoft), number of nodes: `134`
 - [resasanian/Mirza](https://github.com/resasanian), number of nodes: `87`
-- [ripaojiedian/freenode](https://github.com/ripaojiedian), number of nodes: `21`
+- [ripaojiedian/freenode](https://github.com/ripaojiedian), number of nodes: `22`
 - [sun9426/v2ray](https://github.com/sun9426), number of nodes: `6`
 - [ts-sf/fly](https://github.com/ts-sf), number of nodes: `200`
 - [voken100g/AutoSSR](https://github.com/voken100g), number of nodes: `19`
