@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `3818`
+merge nodes w/o dup: `3823`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -545,7 +545,6 @@ merge nodes w/o dup: `3818`
 
 ### node sources
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), number of nodes: `118`
-- [Nodefree.org](https://github.com/Fukki-Z/nodefree), number of nodes: `28`
 - [FiFier/v2rayShare](https://github.com/FiFier/v2rayShare), number of nodes: `18`
 - [AlienVPN402](https://github.com/AlienVPN402), number of nodes: `659`
 - [huwo1/proxy_nodes](https://bitbucket.org/huwo1/proxy_nodes/raw/b90856fe7cb9c666223f3ad41c87d0e60c711590/proxy.md), number of nodes: `21`
@@ -576,7 +575,7 @@ merge nodes w/o dup: `3818`
 - [mlabalabala/v2ray-node](https://github.com/mlabalabala), number of nodes: `58`
 - [peasoft/NoMoreWalls](https://github.com/peasoft), number of nodes: `179`
 - [resasanian/Mirza](https://github.com/resasanian), number of nodes: `87`
-- [ripaojiedian/freenode](https://github.com/ripaojiedian), number of nodes: `22`
+- [ripaojiedian/freenode](https://github.com/ripaojiedian), number of nodes: `24`
 - [sun9426/v2ray](https://github.com/sun9426), number of nodes: `6`
 - [ts-sf/fly](https://github.com/ts-sf), number of nodes: `201`
 - [voken100g/AutoSSR](https://github.com/voken100g), number of nodes: `19`
