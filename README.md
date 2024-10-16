@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `3851`
+merge nodes w/o dup: `3852`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -572,7 +572,7 @@ merge nodes w/o dup: `3851`
 - [hsb4657/v2ray](https://github.com/hsb4657), number of nodes: `38`
 - [junwei380](https://github.com/junwei380), number of nodes: `15`
 - [liketolivefree/kobabi](https://github.com/liketolivefree), number of nodes: `184`
-- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `15`
+- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `16`
 - [mlabalabala/v2ray-node](https://github.com/mlabalabala), number of nodes: `58`
 - [peasoft/NoMoreWalls](https://github.com/peasoft), number of nodes: `48`
 - [resasanian/Mirza](https://github.com/resasanian), number of nodes: `87`
