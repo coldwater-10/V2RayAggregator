@@ -572,7 +572,7 @@ merge nodes w/o dup: `3865`
 - [hsb4657/v2ray](https://github.com/hsb4657), number of nodes: `38`
 - [junwei380](https://github.com/junwei380), number of nodes: `15`
 - [liketolivefree/kobabi](https://github.com/liketolivefree), number of nodes: `184`
-- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `11`
+- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `15`
 - [mlabalabala/v2ray-node](https://github.com/mlabalabala), number of nodes: `58`
 - [peasoft/NoMoreWalls](https://github.com/peasoft), number of nodes: `77`
 - [resasanian/Mirza](https://github.com/resasanian), number of nodes: `87`
