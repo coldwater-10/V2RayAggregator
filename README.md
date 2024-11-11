@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `4996`
+merge nodes w/o dup: `4980`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -560,20 +560,20 @@ merge nodes w/o dup: `4996`
 - [Mohammadgb0078](https://github.com/Mohammadgb0078), number of nodes: `31`
 - [Mr8AHAL](https://github.com/Mr8AHAL), number of nodes: `26`
 - [RescueNet](https://github.com/RescueNet), number of nodes: `20`
-- [surfboardv2ray](https://t.me/surfboardv2ray), number of nodes: `455`
+- [surfboardv2ray](https://t.me/surfboardv2ray), number of nodes: `464`
 - [ZywChannel](https://github.com/ZywChannel), number of nodes: `166`
 - [a2470982985/getNode](https://github.com/a2470982985), number of nodes: `20`
-- [aiboboxx/v2rayfree](https://github.com/aiboboxx), number of nodes: `68`
+- [aiboboxx/v2rayfree](https://github.com/aiboboxx), number of nodes: `57`
 - [dingyu0321/linshi](https://github.com/dingyu0321), number of nodes: `115`
 - [ermaozi01/free_clash_vpn](https://github.com/ermaozi01), number of nodes: `18`
 - [fanqiangfeee/freefq](https://github.com/fanqiangfeee), number of nodes: `55`
 - [xiyaowong/freeFQ](https://github.com/xiyaowong), number of nodes: `156`
 - [hkaa0/permalink](https://github.com/hkaa0), number of nodes: `80`
-- [hsb4657/v2ray](https://github.com/hsb4657), number of nodes: `38`
+- [hsb4657/v2ray](https://github.com/hsb4657), number of nodes: `20`
 - [junwei380](https://github.com/junwei380), number of nodes: `15`
-- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `30`
+- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `33`
 - [mlabalabala/v2ray-node](https://github.com/mlabalabala), number of nodes: `58`
-- [peasoft/NoMoreWalls](https://github.com/peasoft), number of nodes: `71`
+- [peasoft/NoMoreWalls](https://github.com/peasoft), number of nodes: `61`
 - [resasanian/Mirza](https://github.com/resasanian), number of nodes: `62`
 - [ripaojiedian/freenode](https://github.com/ripaojiedian), number of nodes: `20`
 - [sun9426/v2ray](https://github.com/sun9426), number of nodes: `6`
@@ -581,10 +581,10 @@ merge nodes w/o dup: `4996`
 - [voken100g/AutoSSR](https://github.com/voken100g), number of nodes: `19`
 - [w1770946466/Auto_proxy](https://github.com/w1770946466), number of nodes: `421`
 - [sub.pmsub.me/base64](https://sub.pmsub.me/base64), number of nodes: `2`
-- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei), number of nodes: `3963`
-- [coldwater-10/V2Hub3](https://github.com/coldwater-10/V2Hub3), number of nodes: `216`
-- [coldwater-10/V2Hub4](https://github.com/coldwater-10/V2Hub4), number of nodes: `203`
-- [coldwater-10/V2Hub5](https://github.com/coldwater-10/V2Hub5), number of nodes: `95`
+- [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei), number of nodes: `3975`
+- [coldwater-10/V2Hub3](https://github.com/coldwater-10/V2Hub3), number of nodes: `198`
+- [coldwater-10/V2Hub4](https://github.com/coldwater-10/V2Hub4), number of nodes: `198`
+- [coldwater-10/V2Hub5](https://github.com/coldwater-10/V2Hub5), number of nodes: `94`
 - [wangcai](https://t.me/wangcai_8), number of nodes: `53`
 
 ## Softwares
