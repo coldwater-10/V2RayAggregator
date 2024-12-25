@@ -1,195 +1,191 @@
-  - {name: 🇩🇪 DE🇩🇪 | frankfurt03.zgjok.com-443 | 179.26ms, server: frankfurt03.zgjok.com, port: 443, type: vmess, uuid: 4f7c2243-a38a-4672-983b-f1378aee0a7f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: frankfurt03.zgjok.com}}}
-  - {name: RELAY🚩 | fr1e-yeJWUyuCL.v2freevpn.com-80 | 37.95ms, server: fr1e-yeJWUyuCL.v2freevpn.com, port: 80, type: vmess, uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /v133PDXkklxLEcOvD, headers: {Host: fr1e-yeJWUyuCL.v2freevpn.com}}}
-  - {name: IE🇮🇪 | f2.maryam1900.com-8443 | 171.69ms, server: f2.maryam1900.com, port: 8443, type: vmess, uuid: afe57557-df24-43e5-9cea-5d2acc2cad08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: grpc, servername: f2.maryam1900.com, grpc-opts: {grpc-service-name: /}}
-  - {name: RELAY🚩 | speedtest.net.zula.ir.www.anymath.ir-80 | 191.65ms, server: cdn.anymath.ir, port: 80, type: vmess, uuid: 3fee0930-e510-4027-d7d2-20fbd74b5eb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@CHANGE_IP1, headers: {Host: speedtest.net.zula.ir.www.anymath.ir}}}
-  - {name: RELAY🚩 | speedtest.net.zula.ir.www.anymath.ir-80 | 6.46ms, server: zula.ir, port: 80, type: vmess, uuid: 3fee0930-e510-4027-d7d2-20fbd74b5eb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@CHANGE_IP1, headers: {Host: speedtest.net.zula.ir.www.anymath.ir}}}
-  - {name: 🇩🇪 DE🇩🇪 | De2.vmess.site.-80 | 123.31ms, server: www.speedtest.net, port: 80, type: vmess, uuid: 1e99893d-8046-4825-9d28-f6de91147337, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: De2.vmess.site.}}}
-  - {name: RELAY🚩 | server9.998877.best-443 | 20.79ms, server: us16.998998.best, port: 443, type: vmess, uuid: 11338fbe-71f7-47da-bc29-e74780eda3d3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /drtyhiknu/kf/sgi, headers: {Host: server9.998877.best}}}
-  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 41.18ms, server: 31.43.179.105, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
-  - {name: 🇰🇷 KR🇰🇷 | seoul-1ddns.aboutanime.eu.org-23451 | 393.25ms, server: 217.142.132.109, port: 23451, type: vmess, uuid: 2abe4c96-8542-48c5-b19d-9eec92586680, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: seoul-1ddns.aboutanime.eu.org}}}
-  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 131.26ms, server: 213.241.198.57, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
-  - {name: 🇩🇪 DE🇩🇪 | speed.de-west-02.wiit-cloud.io.prod.hosts.ooklaserver.net-8080 | 303.49ms, server: 2001:4ba0:92c1:0072:cf5b:c801:a003:5be9, port: 8080, type: vmess, uuid: 1e6c81e6-4089-4839-f5fc-c8cc6acb5a76, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 US🇺🇸 | 199.180.101.29-38004 | 66.44ms, server: 199.180.101.29, port: 38004, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1734770577466}}
-  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 6.4ms, server: 185.251.83.248, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
-  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 6.54ms, server: 185.18.250.249, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
-  - {name: 🇷🇺 RU🇷🇺 | 176.32.35.194-31416 | 148.77ms, server: 176.32.35.194, port: 31416, type: vmess, uuid: d019aa37-84f0-4461-bc6c-5eafa7006f8f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
-  - {name: RELAY🚩 | 172.67.213.19-8080 | 5.3ms, server: 172.67.213.19, port: 8080, type: vmess, uuid: 51508ae4-9176-41d6-877a-0e64762c4478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
-  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 6.21ms, server: 172.67.133.78, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: lax2.ibgfw.top, network: ws, ws-opts: {path: /, headers: {Host: lax2.ibgfw.top}}}
-  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 6.49ms, server: 172.67.133.78, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
-  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 6.33ms, server: 172.67.133.78, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: lax2.ibgfw.top, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
-  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 6.62ms, server: 167.68.42.137, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
-  - {name: 🇫🇷 FR🇫🇷 | irvideo.cfd-443 | 182.49ms, server: 163.5.159.231, port: 443, type: vmess, uuid: e537f2f5-2a0c-4f59-92c9-832ca6433bf3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: irvideo.cfd, network: ws, ws-opts: {path: /linkws}}
-  - {name: 🇺🇸 US🇺🇸 | ccs.kozow.com-443 | 392.2ms, server: 149.104.33.113, port: 443, type: vmess, uuid: 87ae2ebc-3e45-33d9-8ed3-61a337d88888, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: ccs.kozow.com, network: ws, ws-opts: {path: /, headers: {Host: ccs.kozow.com}}}
-  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 6.15ms, server: 147.78.140.50, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
-  - {name: 🇺🇸 US🇺🇸 | 142.0.134.244-45017 | 68.35ms, server: 142.0.134.244, port: 45017, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 6.33ms, server: 141.11.202.18, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
-  - {name: 🇯🇵 JP🇯🇵 | 140.83.63.38-24445 | 208.22ms, server: 140.83.63.38, port: 24445, type: vmess, uuid: 94c5ef37-4d82-49f9-c624-f01259374a17, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 6.09ms, server: 14.102.229.82, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
-  - {name: 🇩🇪 DE🇩🇪 | 138.201.44.49-4035 | 99.32ms, server: 138.201.44.49, port: 4035, type: vmess, uuid: 9398b3da-690f-4648-abb7-9c4118449159, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇩🇪 DE🇩🇪 | 138.201.44.49-4035 | 99.54ms, server: 138.201.44.49, port: 4035, type: vmess, uuid: 9398b3da-690f-4648-abb7-9c4118449159, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇩🇪 DE🇩🇪 | 138.201.44.49-4035 | 98.57ms, server: 138.201.44.49, port: 4035, type: vmess, uuid: 9398b3da-690f-4648-abb7-9c4118449159, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇭🇰 HK🇭🇰 | www.baidu.com-443 | 1374.74ms, server: 135.125.134.177, port: 443, type: vmess, uuid: d4734bd8-906b-4426-b9ff-9dbc388d56da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 6.54ms 2, server: 104.21.13.222, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: lax2.ibgfw.top, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
-  - {name: RELAY🚩 | 2112122485.online.video.downloader.0123456789sg.niubi.site-2052 | 42.98ms, server: 104.19.48.236, port: 2052, type: vmess, uuid: 71006566-1e38-465d-b748-4aad77346ef6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 2112122485.online.video.downloader.0123456789sg.niubi.site}}}
-  - {name: RELAY🚩 | us19.998998.best-443 | 93.82ms, server: 104.17.31.222, port: 443, type: vmess, uuid: 11338fbe-71f7-47da-bc29-e74780eda3d3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: us19.998998.best, network: ws, ws-opts: {path: "/setfdg/sdfg/sgi?ed=2560", headers: {Host: server2.998877.best}}}
-  - {name: RELAY🚩 | square-snowflake-486a.beshir-beisel.workers.dev-2052 | 33.92ms, server: 104.16.68.38, port: 2052, type: vmess, uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: square-snowflake-486a.beshir-beisel.workers.dev}}}
-  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 6.11ms, server: 104.129.164.255, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
-  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 6.14ms, server: 92.60.74.148, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
-  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 6.2ms, server: 92.53.191.56, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
-  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 6.51ms, server: 89.117.112.235, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
-  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 6.17ms, server: 89.116.161.240, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
-  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 6.46ms, server: 89.116.161.240, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
-  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 6.53ms, server: 86.38.214.52, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
-  - {name: IE🇮🇪 | 85.159.229.88-8443 | 108.12ms, server: 85.159.229.88, port: 8443, type: vmess, uuid: afe57557-df24-43e5-9cea-5d2acc2cad08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: grpc, servername: "", grpc-opts: {grpc-service-name: /}}
-  - {name: MX🇲🇽 | 79.127.229.54-18000 | 49.33ms, server: 79.127.229.54, port: 18000, type: vmess, uuid: fa1897db-1925-4c86-a495-939a959af900, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 6.55ms, server: 77.37.33.244, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
-  - {name: 🇺🇸 US🇺🇸 | 5.78.95.241-39121 | 83.79ms, server: 5.78.95.241, port: 39121, type: vmess, uuid: 1989c64a-74d1-44a9-bd91-13c9f4687cf0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 6.04ms, server: 5.10.246.166, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
-  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 6.66ms, server: 45.159.218.144, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
-  - {name: RELAY🚩 | luodi.davesuen.store-8080 | 41.63ms, server: 45.131.7.92, port: 8080, type: vmess, uuid: 2a4fa40f-97f4-4ea9-b959-b148c4197d15, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /2a4fa40f, headers: {Host: luodi.davesuen.store}}}
-  - {name: 🇺🇸 US🇺🇸 | 185.180.13.70-43118 | 62.73ms, server: 185.180.13.70, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: false}
-  - {name: 🇷🇺 RU🇷🇺 | get.fragmentary.info-443 | 424.14ms, server: 195.133.11.229, port: 443, type: trojan, password: xsN5qXcwQ2u61ZpcYQhyBujA3gWTrtNV, sni: get.fragmentary.info, skip-cert-verify: false, network: ws, ws-opts: {path: "%2Fsocks5tobefree", headers: {Host: get.fragmentary.info}}}
-  - {name: 🇺🇸 US🇺🇸 | pscresearch.faculty.ucdavis.edu-443 | 261.93ms, server: 151.101.2.228, port: 443, type: trojan, password: f8bb4ae1-2358-4a76-ab75-2a6bc94272d6, sni: pscresearch.faculty.ucdavis.edu, skip-cert-verify: false}
-  - {name: 🇺🇸 US🇺🇸 | sherasheba.com-443 | 27.84ms, server: sherasheba.com, port: 443, type: trojan, password: f0eb8c92ce8946aaba856569cff1a16b, skip-cert-verify: false}
-  - {name: 🇨🇦 CA🇨🇦 | avianrecruit.com-443 | 51.74ms, server: 134.195.196.138, port: 443, type: trojan, password: e8105dfd24414268b6c7652c63731097, sni: avianrecruit.com, skip-cert-verify: false}
-  - {name: 🇫🇷 FR🇫🇷 | yournextcareerstep.online-443 | 104.37ms, server: 108.61.177.251, port: 443, type: trojan, password: e8105dfd24414268b6c7652c63731097, sni: yournextcareerstep.online, skip-cert-verify: false}
-  - {name: 🇺🇸 US🇺🇸 | jobscareertoday.com-443 | 116.91ms, server: jobscareertoday.com, port: 443, type: trojan, password: cb1f26aa437d4bfa9b841d28503ce8cc, skip-cert-verify: false}
-  - {name: 🇺🇸 US🇺🇸 | jobscareerfortoday.com-443 | 118ms, server: jobscareerfortoday.com, port: 443, type: trojan, password: cb1f26aa437d4bfa9b841d28503ce8cc, skip-cert-verify: false}
-  - {name: 🇺🇸 US🇺🇸 | 23.150.248.50-443 | 35.53ms, server: 23.150.248.50, port: 443, type: trojan, password: cb1f26aa437d4bfa9b841d28503ce8cc, skip-cert-verify: false}
-  - {name: 🇫🇷 FR🇫🇷 | 108.61.177.251-443 | 80.32ms, server: 108.61.177.251, port: 443, type: trojan, password: 984e400bf5d541b7b0815913fe0c432a, skip-cert-verify: false}
-  - {name: 🇺🇸 US🇺🇸 | jobsfortheworldtoday.com-443 | 54.16ms, server: jobsfortheworldtoday.com, port: 443, type: trojan, password: 71409d3e488548e8bb076d229778f008, skip-cert-verify: false}
-  - {name: 🇺🇸 US🇺🇸 | jobsfortheworldtoday.com-443 | 47.44ms, server: 38.99.82.225, port: 443, type: trojan, password: 71409d3e488548e8bb076d229778f008, sni: jobsfortheworldtoday.com, skip-cert-verify: false}
-  - {name: 🇬🇧 GB🇬🇧 | bangladeshipatri.com-443 | 167.87ms, server: 104.16.159.6, port: 443, type: trojan, password: 669d0ac7b5b64ebbb1abb75d5d540a5c, sni: bangladeshipatri.com, skip-cert-verify: false}
-  - {name: 🇸🇬 SG🇸🇬 | connectwithemployers.online-443 | 237.59ms, server: connectwithemployers.online, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 30.42ms, server: ipinfo.in, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.26ms, server: rustam.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.26ms 2, server: ashton.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.03ms, server: dylan.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.28ms, server: 104.17.142.12, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.13ms, server: 172.67.79.211, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.09ms, server: bowen.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.25ms, server: otto.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.31ms, server: 172.67.49.134, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.4ms, server: 172.67.120.0, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.52ms, server: 162.159.36.104, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.09ms 2, server: www.digitalocean.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.25ms 2, server: 104.17.142.12, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.39ms, server: 104.17.68.85, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.1ms, server: nikon.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 5.97ms, server: 172.67.181.209, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.66ms, server: moura.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 5.99ms, server: wilson.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 5.94ms, server: otto.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.38ms, server: decker.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.24ms, server: huxley.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.37ms, server: 172.67.243.218, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.11ms, server: www.whatismyip.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.27ms, server: www.csgo.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.23ms, server: ip.sb, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.19ms, server: pranab.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.53ms, server: ipv4.ip.sb, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.24ms 2, server: 162.159.133.85, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.07ms, server: julio.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.51ms, server: kyree.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.18ms, server: trevor.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.18ms 2, server: wilson.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.15ms, server: 172.67.106.26, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.37ms 2, server: 172.67.110.232, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.59ms, server: 172.67.95.24, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.29ms, server: uriah.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 5.97ms 2, server: icook.tw, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-2096 | 6.21ms, server: 104.17.128.1, port: 2096, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.16ms, server: abdullah.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 5.97ms 3, server: craig.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.57ms, server: 172.64.201.25, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-2083 | 6.32ms, server: 104.16.134.27, port: 2083, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-2087 | 5.91ms, server: 104.25.254.4, port: 2087, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.21ms, server: benedict.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.45ms, server: braden.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.3ms, server: cris.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.41ms, server: 104.17.71.31, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.33ms, server: iplocation.io, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.49ms, server: toy-people.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.29ms 2, server: www.ddwhm.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.19ms 2, server: gamer.com.tw, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.06ms, server: www.pcmag.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 5.87ms, server: dnschecker.org, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.2ms, server: 104.17.68.85, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.13ms 2, server: time.is, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.14ms, server: www.iakeys.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.42ms, server: whatismyipaddress.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.3ms 2, server: steamdb.info, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.73ms, server: comicabc.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.03ms 2, server: silkbook.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.22ms, server: lewis.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.18ms 3, server: www.ipchicken.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.08ms, server: www.glassdoor.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.28ms 2, server: ip.gs, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.1ms 2, server: www.wto.org, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.68ms, server: ipv4.ip.sb, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.32ms, server: tasteatlas.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 6.45ms 2, server: yecaoyun.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
-  - {name: 🇺🇸 US🇺🇸 | 79.110.53.169-8080 | 59.55ms, server: 79.110.53.169, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
-  - {name: 🇫🇷 FR🇫🇷 | 51.158.244.38-8080 | 88.57ms, server: 51.158.244.38, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
-  - {name: 🇺🇸 US🇺🇸 | 23.251.121.242-8080 | 70.38ms, server: 23.251.121.242, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
-  - {name: 🇺🇸 US🇺🇸 | 194.5.215.59-8080 | 22.36ms, server: 194.5.215.59, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
-  - {name: 🇩🇪 DE🇩🇪 | 193.108.119.230-8080 | 96.44ms, server: 193.108.119.230, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
-  - {name: 🇬🇧 GB🇬🇧 | 146.70.61.18-8080 | 85.25ms, server: 146.70.61.18, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
-  - {name: 🇬🇧 GB🇬🇧 | 146.70.61.18-8080 | 85.88ms, server: 146.70.61.18, port: 8080, type: ss, cipher: ss, password: //cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg}
-  - {name: 🇯🇵 JP🇯🇵 | 18.179.197.216-443 | 157.26ms, server: 18.179.197.216, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU}
-  - {name: 🇯🇵 JP🇯🇵 | 149.22.87.204-443 | 159.47ms, server: 149.22.87.204, port: 443, type: ss, cipher: ss, password: //YWVzLTEyOC1nY206c2hhZG93c29ja3M}
-  - {name: 🇺🇸 US🇺🇸 | 23.157.40.89-8881 | 71.76ms, server: 23.157.40.89, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: 🇺🇸 US🇺🇸 | 38.75.136.108-2375 | 70.77ms, server: 38.75.136.108, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 US🇺🇸 | 139.64.165.230-2376 | 55.37ms, server: 139.64.165.230, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 US🇺🇸 | 23.157.40.113-8119 | 68.58ms, server: 23.157.40.113, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: 🇺🇸 US🇺🇸 | 38.121.43.27-7001 | 28.43ms, server: 38.121.43.27, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: 🇺🇸 US🇺🇸 | 23.157.40.89-7002 | 87.62ms, server: 23.157.40.89, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: 🇺🇸 US🇺🇸 | 38.68.134.202-8091 | 39.79ms, server: 38.68.134.202, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇺🇸 US🇺🇸 | 38.114.114.77-5500 | 62.26ms, server: 38.114.114.77, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇺🇸 US🇺🇸 | 38.110.1.46-7307 | 26.7ms, server: 38.110.1.46, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇵🇱 PL🇵🇱 | 217.30.10.18-9093 | 105.35ms, server: 217.30.10.18, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt}
-  - {name: 🇵🇱 PL🇵🇱 | 217.30.10.18-9094 | 104.22ms, server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ}
-  - {name: 🇫🇷 FR🇫🇷 | 51.15.15.82-989 | 85.67ms, server: 51.15.15.82, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇵🇱 PL🇵🇱 | 217.30.10.18-9084 | 103.61ms, server: 217.30.10.18, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj}
-  - {name: 🇺🇸 US🇺🇸 | 54.201.174.149-443 | 84.97ms, server: 54.201.174.149, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇯🇵 JP🇯🇵 | 54.178.191.236-443 | 156.18ms, server: 54.178.191.236, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇰🇷 KR🇰🇷 | 43.203.243.93-443 | 229.98ms, server: 43.203.243.93, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇺🇸 US🇺🇸 | 34.222.136.128-443 | 85.13ms, server: 34.222.136.128, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇺🇸 US🇺🇸 | 34.222.132.123-443 | 85.23ms, server: 34.222.132.123, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇰🇷 KR🇰🇷 | 3.38.212.48-443 | 186.74ms, server: 3.38.212.48, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇯🇵 JP🇯🇵 | 18.179.197.216-443 | 155.95ms, server: 18.179.197.216, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇵🇱 PL🇵🇱 | 217.30.10.18-9064 | 102.37ms, server: 217.30.10.18, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH}
-  - {name: 🇵🇱 PL🇵🇱 | 217.30.10.18-9003 | 101.67ms, server: 217.30.10.18, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP}
-  - {name: 🇵🇱 PL🇵🇱 | 217.30.10.18-9020 | 105.51ms, server: 217.30.10.18, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu}
-  - {name: 🇬🇧 GB🇬🇧 | 212.102.53.193-443 | 84.37ms, server: 212.102.53.193, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇯🇵 JP🇯🇵 | 149.22.87.204-443 | 159.48ms, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇺🇸 US🇺🇸 | 37.19.198.244-443 | 11.36ms, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7}
-  - {name: 🇺🇸 US🇺🇸 | 37.19.198.236-443 | 11.23ms, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7}
-  - {name: 🇺🇸 US🇺🇸 | 37.19.198.160-443 | 11.37ms, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7}
-  - {name: 🇬🇧 GB🇬🇧 | 212.102.53.198-443 | 88.52ms, server: 212.102.53.198, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7}
-  - {name: 🇺🇸 US🇺🇸 | 173.244.56.6-443 | 57.84ms, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7}
-  - {name: CH🇨🇭 | 156.146.62.162-443 | 98.57ms, server: 156.146.62.162, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7}
-  - {name: 🇬🇧 GB🇬🇧 | 141.98.101.178-443 | 108.19ms, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7}
-  - {name: 🇳🇱 NL🇳🇱 | 208.67.105.87-42501 | 133.89ms, server: 208.67.105.87, port: 42501, type: ss, cipher: chacha20-ietf-poly1305, password: nq96KftrZAj3LuFQESqmn44Mo5oCuo2cipoEsae25mrmHG2oJ4VT37scBfVBpN5DWtUELZutVhhXs8Le5B8fZ9hLn9ytwvbf}
-  - {name: 🇺🇸 US🇺🇸 | 52.237.155.68-443 | 26.04ms, server: 52.237.155.68, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mzyYriPYYnCWDxoy}
-  - {name: 🇬🇧 GB🇬🇧 | series-a2.varzesh360.co-443 | 201.9ms, server: series-a2.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg}
-  - {name: 🇬🇧 GB🇬🇧 | series-a2.samanehha.co-443 | 183.23ms, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg}
-  - {name: 🇺🇸 US🇺🇸 | 205.134.180.139-443 | 11.28ms, server: 205.134.180.139, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lWaGPVFjmnag7}
-  - {name: 🇵🇱 PL🇵🇱 | 92.118.205.228-990 | 108.99ms, server: 92.118.205.228, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: LV🇱🇻 | 46.183.217.232-990 | 107.01ms, server: 46.183.217.232, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: LT🇱🇹 | 45.87.175.181-8080 | 92.14ms, server: 45.87.175.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-  - {name: LT🇱🇹 | 45.87.175.178-8080 | 91.53ms, server: 45.87.175.178, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-  - {name: 🇬🇧 GB🇬🇧 | series-a1.samanehha.co-443 | 139.72ms, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA}
-  - {name: CH🇨🇭 | 138.124.119.47-31801 | 102.24ms, server: 138.124.119.47, port: 31801, type: ss, cipher: chacha20-ietf-poly1305, password: VMlmCg+MECr9UYNx6KlrGUOwfX0Z/YhqOq0DSumajLM=}
-  - {name: NO🇳🇴 | 51.13.115.55-40826 | 102.85ms, server: 51.13.115.55, port: 40826, type: ss, cipher: chacha20-ietf-poly1305, password: MZRSFDJxkMhGytZaw3NLHl}
-  - {name: 🇨🇦 CA🇨🇦 | 142.4.216.225-80 | 22.33ms, server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq}
-  - {name: BH🇧🇭 | series-a2-me.varzesh360.co-443 | 208.19ms, server: series-a2-me.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ}
-  - {name: AT🇦🇹 | 95.164.9.144-2927 | 97.34ms, server: 95.164.9.144, port: 2927, type: ss, cipher: chacha20-ietf-poly1305, password: ug4Fu79SEREdFGlt2sUyT4}
-  - {name: AE🇦🇪 | series-a2-mec.varzesh360.co-443 | 211.93ms, server: series-a2-mec.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c}
-  - {name: AE🇦🇪 | series-a2-mec.samanehha.co-443 | 211.28ms, server: series-a2-mec.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c}
-  - {name: AE🇦🇪 | api.namasha.co-443 | 311.93ms, server: api.namasha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c}
-  - {name: LT🇱🇹 | 45.87.175.178-8080 | 92.25ms, server: 45.87.175.178, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-  - {name: LT🇱🇹 | 45.87.175.171-8080 | 91.82ms, server: 45.87.175.171, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-  - {name: 🇺🇸 US🇺🇸 | 205.134.180.150-443 | 7.77ms, server: 205.134.180.150, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 5cp9Z3iWnJZ27}
-  - {name: LT🇱🇹 | 45.87.175.188-8080 | 91.42ms, server: 45.87.175.188, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
-  - {name: LT🇱🇹 | 45.87.175.157-8080 | 92.08ms, server: 45.87.175.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+  - {name: 🇫🇷 FR🇫🇷 | hms03.dongfeng.cfd-443 | 217.37ms, server: irhms03.dongfeng.cfd, port: 443, type: vmess, uuid: fa5b55cd-cafc-4de0-a4c8-722e02a9f58e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: hms03.dongfeng.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: hms03.dongfeng.cfd}}}
+  - {name: 🇩🇪 DE🇩🇪 | frankfurt03.zgjok.com-443 | 232.96ms, server: frankfurt03.zgjok.com, port: 443, type: vmess, uuid: 4f7c2243-a38a-4672-983b-f1378aee0a7f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: frankfurt03.zgjok.com}}}
+  - {name: RELAY🚩 | fr1e-yeJWUyuCL.v2freevpn.com-80 | 78.72ms, server: fr1e-yeJWUyuCL.v2freevpn.com, port: 80, type: vmess, uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /v133PDXkklxLEcOvD, headers: {Host: fr1e-yeJWUyuCL.v2freevpn.com}}}
+  - {name: IE🇮🇪 | f2.maryam1900.com-8443 | 252.39ms, server: f2.maryam1900.com, port: 8443, type: vmess, uuid: afe57557-df24-43e5-9cea-5d2acc2cad08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: grpc, servername: f2.maryam1900.com, grpc-opts: {grpc-service-name: /}}
+  - {name: RELAY🚩 | speedtest.net.zula.ir.www.anymath.ir-80 | 257.12ms, server: cdn.anymath.ir, port: 80, type: vmess, uuid: 3fee0930-e510-4027-d7d2-20fbd74b5eb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@CHANGE_IP1, headers: {Host: speedtest.net.zula.ir.www.anymath.ir}}}
+  - {name: RELAY🚩 | speedtest.net.zula.ir.www.anymath.ir-80 | 9.35ms, server: zula.ir, port: 80, type: vmess, uuid: 3fee0930-e510-4027-d7d2-20fbd74b5eb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@CHANGE_IP1, headers: {Host: speedtest.net.zula.ir.www.anymath.ir}}}
+  - {name: 🇩🇪 DE🇩🇪 | De2.vmess.site.-80 | 194.89ms, server: www.speedtest.net, port: 80, type: vmess, uuid: 1e99893d-8046-4825-9d28-f6de91147337, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: De2.vmess.site.}}}
+  - {name: RELAY🚩 | server9.998877.best-443 | 294.76ms, server: us16.998998.best, port: 443, type: vmess, uuid: 11338fbe-71f7-47da-bc29-e74780eda3d3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /drtyhiknu/kf/sgi, headers: {Host: server9.998877.best}}}
+  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 248.34ms, server: 31.43.179.105, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
+  - {name: 🇰🇷 KR🇰🇷 | seoul-1ddns.aboutanime.eu.org-23451 | 283.06ms, server: 217.142.132.109, port: 23451, type: vmess, uuid: 2abe4c96-8542-48c5-b19d-9eec92586680, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: seoul-1ddns.aboutanime.eu.org}}}
+  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 31.18ms, server: 213.241.198.57, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
+  - {name: 🇩🇪 DE🇩🇪 | speed.de-west-02.wiit-cloud.io.prod.hosts.ooklaserver.net-8080 | 293.08ms, server: 2001:4ba0:92c1:0072:cf5b:c801:a003:5be9, port: 8080, type: vmess, uuid: 1e6c81e6-4089-4839-f5fc-c8cc6acb5a76, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 US🇺🇸 | 199.180.101.29-38004 | 16.27ms, server: 199.180.101.29, port: 38004, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/1734770577466}}
+  - {name: 🇷🇺 RU🇷🇺 | 194.87.68.115-16712 | 174.95ms, server: 194.87.68.115, port: 16712, type: vmess, uuid: 9511bda3-0098-4159-9eb6-fa848b1525cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: 🇷🇺 RU🇷🇺 | 194.87.68.115-16712 | 174.74ms, server: 194.87.68.115, port: 16712, type: vmess, uuid: 1f3d7c35-2f67-41f0-b65d-c8687948d7e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: IR🇮🇷 | 185.29.223.164-32718 | 246.27ms, server: 185.29.223.164, port: 32718, type: vmess, uuid: c398fa1f-fac5-4d76-9452-f0aee44cbc66, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 9.13ms, server: 185.18.250.249, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
+  - {name: 🇷🇺 RU🇷🇺 | 176.32.35.194-31416 | 189.64ms, server: 176.32.35.194, port: 31416, type: vmess, uuid: d019aa37-84f0-4461-bc6c-5eafa7006f8f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: 🇷🇺 RU🇷🇺 | 176.32.33.73-3592 | 197.44ms, server: 176.32.33.73, port: 3592, type: vmess, uuid: 4d8ef514-d3ee-4a26-ba7b-78fefcabaa94, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: RELAY🚩 | 172.67.213.19-8080 | 9.21ms, server: 172.67.213.19, port: 8080, type: vmess, uuid: 51508ae4-9176-41d6-877a-0e64762c4478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 9.61ms, server: 172.67.133.78, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: lax2.ibgfw.top, network: ws, ws-opts: {path: /, headers: {Host: lax2.ibgfw.top}}}
+  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 9.75ms, server: 172.67.133.78, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
+  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 9.55ms, server: 172.67.133.78, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: lax2.ibgfw.top, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
+  - {name: 🇫🇷 FR🇫🇷 | irvideo.cfd-443 | 161.59ms, server: 163.5.159.231, port: 443, type: vmess, uuid: e537f2f5-2a0c-4f59-92c9-832ca6433bf3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: irvideo.cfd, network: ws, ws-opts: {path: /linkws}}
+  - {name: 🇺🇸 US🇺🇸 | ccs.kozow.com-443 | 358.03ms, server: 149.104.33.113, port: 443, type: vmess, uuid: 87ae2ebc-3e45-33d9-8ed3-61a337d88888, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: ccs.kozow.com, network: ws, ws-opts: {path: /, headers: {Host: ccs.kozow.com}}}
+  - {name: 🇺🇸 US🇺🇸 | 142.0.134.244-45017 | 17.41ms, server: 142.0.134.244, port: 45017, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 9.61ms, server: 141.11.202.18, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
+  - {name: 🇯🇵 JP🇯🇵 | 140.83.63.38-24445 | 156.08ms, server: 140.83.63.38, port: 24445, type: vmess, uuid: 94c5ef37-4d82-49f9-c624-f01259374a17, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇩🇪 DE🇩🇪 | 138.201.44.49-4035 | 150.28ms, server: 138.201.44.49, port: 4035, type: vmess, uuid: 9398b3da-690f-4648-abb7-9c4118449159, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇩🇪 DE🇩🇪 | 138.201.44.49-4035 | 150.52ms, server: 138.201.44.49, port: 4035, type: vmess, uuid: 9398b3da-690f-4648-abb7-9c4118449159, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇩🇪 DE🇩🇪 | 138.201.44.49-4035 | 150.77ms, server: 138.201.44.49, port: 4035, type: vmess, uuid: 9398b3da-690f-4648-abb7-9c4118449159, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 HK🇭🇰 | www.baidu.com-443 | 893.42ms, server: 135.125.134.177, port: 443, type: vmess, uuid: d4734bd8-906b-4426-b9ff-9dbc388d56da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇫🇷 FR🇫🇷 | glweidf.sbs-443 | 617.67ms, server: 104.21.15.212, port: 443, type: vmess, uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: glweidf.sbs, network: ws, ws-opts: {path: /linkws, headers: {Host: glweidf.sbs}}}
+  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 9.17ms, server: 104.21.13.222, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: lax2.ibgfw.top, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
+  - {name: RELAY🚩 | 2112122485.online.video.downloader.0123456789sg.niubi.site-2052 | 84.51ms, server: 104.19.48.236, port: 2052, type: vmess, uuid: 71006566-1e38-465d-b748-4aad77346ef6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 2112122485.online.video.downloader.0123456789sg.niubi.site}}}
+  - {name: RELAY🚩 | us19.998998.best-443 | 373.83ms, server: 104.17.31.222, port: 443, type: vmess, uuid: 11338fbe-71f7-47da-bc29-e74780eda3d3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: us19.998998.best, network: ws, ws-opts: {path: "/setfdg/sdfg/sgi?ed=2560", headers: {Host: server2.998877.best}}}
+  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 9.1ms, server: 104.129.164.255, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
+  - {name: 🇸🇬 SG🇸🇬 | 103.106.229.29-47928 | 173.47ms, server: 103.106.229.29, port: 47928, type: vmess, uuid: a4141a2c-ca33-4237-add0-220a204e4ac3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: 🇺🇸 US🇺🇸 | jahfkjha.cfd-443 | 129ms, server: 96.126.107.235, port: 443, type: vmess, uuid: 950db6aa-4926-4616-816e-ec0312dcb87b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: jahfkjha.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: jahfkjha.cfd}}}
+  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 9.25ms, server: 92.60.74.148, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
+  - {name: RELAY🚩 | lax2.ibgfw.top-8443 | 10.15ms, server: 92.53.191.56, port: 8443, type: vmess, uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dyajvws, headers: {Host: lax2.ibgfw.top}}}
+  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 9.41ms, server: 89.116.161.240, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
+  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 9.67ms, server: 86.38.214.52, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
+  - {name: IE🇮🇪 | 85.159.229.88-8443 | 152.33ms, server: 85.159.229.88, port: 8443, type: vmess, uuid: afe57557-df24-43e5-9cea-5d2acc2cad08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: grpc, servername: "", grpc-opts: {grpc-service-name: /}}
+  - {name: MX🇲🇽 | 79.127.229.54-18000 | 48.7ms, server: 79.127.229.54, port: 18000, type: vmess, uuid: fa1897db-1925-4c86-a495-939a959af900, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 9.84ms, server: 77.37.33.244, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
+  - {name: RELAY🚩 | lax1.ibgfw.top-8443 | 9.01ms, server: 5.10.246.166, port: 8443, type: vmess, uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /xrenvws, headers: {Host: lax1.ibgfw.top}}}
+  - {name: 🇺🇸 US🇺🇸 | 185.180.13.70-43118 | 9.03ms, server: 185.180.13.70, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: false}
+  - {name: 🇷🇺 RU🇷🇺 | get.fragmentary.info-443 | 393.32ms, server: 195.133.11.229, port: 443, type: trojan, password: xsN5qXcwQ2u61ZpcYQhyBujA3gWTrtNV, sni: get.fragmentary.info, skip-cert-verify: false, network: ws, ws-opts: {path: "%2Fsocks5tobefree", headers: {Host: get.fragmentary.info}}}
+  - {name: 🇺🇸 US🇺🇸 | sherasheba.com-443 | 164.59ms, server: sherasheba.com, port: 443, type: trojan, password: f0eb8c92ce8946aaba856569cff1a16b, skip-cert-verify: false}
+  - {name: 🇨🇦 CA🇨🇦 | avianrecruit.com-443 | 126.98ms, server: 134.195.196.138, port: 443, type: trojan, password: e8105dfd24414268b6c7652c63731097, sni: avianrecruit.com, skip-cert-verify: false}
+  - {name: 🇫🇷 FR🇫🇷 | yournextcareerstep.online-443 | 497.02ms, server: 108.61.177.251, port: 443, type: trojan, password: e8105dfd24414268b6c7652c63731097, sni: yournextcareerstep.online, skip-cert-verify: false}
+  - {name: 🇺🇸 US🇺🇸 | jobscareertoday.com-443 | 112.69ms, server: jobscareertoday.com, port: 443, type: trojan, password: cb1f26aa437d4bfa9b841d28503ce8cc, skip-cert-verify: false}
+  - {name: 🇺🇸 US🇺🇸 | jobscareerfortoday.com-443 | 92.14ms, server: jobscareerfortoday.com, port: 443, type: trojan, password: cb1f26aa437d4bfa9b841d28503ce8cc, skip-cert-verify: false}
+  - {name: 🇺🇸 US🇺🇸 | 23.150.248.50-443 | 25.95ms, server: 23.150.248.50, port: 443, type: trojan, password: cb1f26aa437d4bfa9b841d28503ce8cc, skip-cert-verify: false}
+  - {name: 🇬🇧 GB🇬🇧 | bangladeshipatri.com-443 | 246.58ms, server: 172.99.190.180, port: 443, type: trojan, password: 984e400bf5d541b7b0815913fe0c432a, sni: bangladeshipatri.com, skip-cert-verify: false}
+  - {name: 🇬🇧 GB🇬🇧 | bangladeshipatri.com-443 | 182.12ms, server: 172.99.190.180, port: 443, type: trojan, password: 984e400bf5d541b7b0815913fe0c432a, sni: bangladeshipatri.com, skip-cert-verify: false}
+  - {name: 🇫🇷 FR🇫🇷 | 108.61.177.251-443 | 131.67ms, server: 108.61.177.251, port: 443, type: trojan, password: 984e400bf5d541b7b0815913fe0c432a, skip-cert-verify: false}
+  - {name: 🇬🇧 GB🇬🇧 | bangladeshipatri.com-443 | 187.93ms, server: 104.16.159.5, port: 443, type: trojan, password: 984e400bf5d541b7b0815913fe0c432a, sni: bangladeshipatri.com, skip-cert-verify: false}
+  - {name: VN🇻🇳 | 160.30.21.105-443 | 218.16ms, server: 160.30.21.105, port: 443, type: trojan, password: 94d219c9-1afc-4d42-b090-8b3794764380, skip-cert-verify: false}
+  - {name: 🇺🇸 US🇺🇸 | jobsfortheworldtoday.com-443 | 142.53ms, server: jobsfortheworldtoday.com, port: 443, type: trojan, password: 71409d3e488548e8bb076d229778f008, skip-cert-verify: false}
+  - {name: 🇺🇸 US🇺🇸 | jobsfortheworldtoday.com-443 | 101.65ms, server: 38.99.82.225, port: 443, type: trojan, password: 71409d3e488548e8bb076d229778f008, sni: jobsfortheworldtoday.com, skip-cert-verify: false}
+  - {name: 🇬🇧 GB🇬🇧 | bangladeshipatri.com-443 | 125.61ms, server: 104.16.159.6, port: 443, type: trojan, password: 669d0ac7b5b64ebbb1abb75d5d540a5c, sni: bangladeshipatri.com, skip-cert-verify: false}
+  - {name: 🇸🇬 SG🇸🇬 | connectwithemployers.online-443 | 435.7ms, server: connectwithemployers.online, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 51.19ms, server: ipinfo.in, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.96ms, server: rustam.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.48ms, server: ashton.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.26ms, server: dylan.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.63ms, server: 104.17.142.12, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.55ms, server: 172.67.79.211, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.92ms, server: bowen.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.35ms, server: otto.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.12ms, server: 172.67.49.134, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.67ms, server: 172.67.120.0, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.76ms, server: 162.159.36.104, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.25ms, server: www.digitalocean.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.52ms, server: 104.17.142.12, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.97ms, server: 104.17.68.85, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.45ms, server: nikon.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.88ms, server: 172.67.181.209, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.23ms, server: moura.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.53ms, server: wilson.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.2ms, server: otto.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.9ms, server: decker.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.23ms 2, server: huxley.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.41ms, server: 172.67.243.218, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.25ms 2, server: www.whatismyip.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 10.01ms, server: www.csgo.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.36ms, server: ip.sb, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.56ms, server: pranab.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.46ms, server: ipv4.ip.sb, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.51ms, server: 162.159.133.85, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.22ms, server: julio.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.42ms, server: kyree.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.6ms, server: trevor.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.48ms 2, server: wilson.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.36ms 2, server: 172.67.106.26, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.44ms, server: 172.67.110.232, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 10.24ms, server: 172.67.95.24, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.32ms, server: uriah.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.45ms 2, server: icook.tw, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-2096 | 9.28ms, server: 104.17.128.1, port: 2096, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.57ms, server: abdullah.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.98ms, server: craig.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.12ms 2, server: 172.64.201.25, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-2083 | 9.26ms, server: 104.16.134.27, port: 2083, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-2087 | 9.29ms, server: 104.25.254.4, port: 2087, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.27ms, server: benedict.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.53ms 2, server: braden.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 10.1ms, server: cris.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.42ms 2, server: 104.17.71.31, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.3ms, server: iplocation.io, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.18ms, server: toy-people.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.32ms 2, server: www.ddwhm.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.51ms 2, server: gamer.com.tw, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.2ms 2, server: www.pcmag.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.75ms, server: dnschecker.org, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.66ms, server: 104.17.68.85, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.83ms, server: time.is, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.76ms 2, server: www.iakeys.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.76ms 3, server: whatismyipaddress.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.67ms 2, server: steamdb.info, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.53ms 3, server: comicabc.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.22ms 2, server: silkbook.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.48ms 3, server: lewis.ns.cloudflare.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.86ms, server: www.ipchicken.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.92ms 2, server: www.glassdoor.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.61ms, server: ip.gs, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 10.69ms, server: www.wto.org, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.21ms, server: ipv4.ip.sb, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.56ms 2, server: tasteatlas.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: RELAY🚩 | trojanmz.pages.dev-443 | 9.45ms 3, server: yecaoyun.com, port: 443, type: trojan, password: auto, sni: trojanmz.pages.dev, skip-cert-verify: false}
+  - {name: 🇺🇸 US🇺🇸 | 79.110.53.169-8080 | 8.7ms, server: 79.110.53.169, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
+  - {name: 🇫🇷 FR🇫🇷 | 51.158.244.38-8080 | 138.51ms, server: 51.158.244.38, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
+  - {name: 🇺🇸 US🇺🇸 | 23.251.121.242-8080 | 19.09ms, server: 23.251.121.242, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
+  - {name: 🇺🇸 US🇺🇸 | 194.5.215.59-8080 | 46.75ms, server: 194.5.215.59, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
+  - {name: 🇩🇪 DE🇩🇪 | 193.108.119.230-8080 | 140.38ms, server: 193.108.119.230, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
+  - {name: 🇺🇸 US🇺🇸 | 107.155.57.11-8080 | 18.11ms, server: 107.155.57.11, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6}
+  - {name: 🇺🇸 US🇺🇸 | 23.157.40.89-8881 | 18.89ms, server: 23.157.40.89, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇺🇸 US🇺🇸 | 139.64.165.230-2376 | 42.48ms, server: 139.64.165.230, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 US🇺🇸 | 23.157.40.113-8119 | 17.71ms, server: 23.157.40.113, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇺🇸 US🇺🇸 | 38.121.43.27-7001 | 44.03ms, server: 38.121.43.27, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 🇺🇸 US🇺🇸 | 23.157.40.89-7002 | 19.16ms, server: 23.157.40.89, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 🇺🇸 US🇺🇸 | 38.68.134.202-8091 | 30.68ms, server: 38.68.134.202, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 US🇺🇸 | 38.110.1.46-7307 | 49.07ms, server: 38.110.1.46, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇵🇱 PL🇵🇱 | 217.30.10.18-9093 | 155.76ms, server: 217.30.10.18, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt}
+  - {name: 🇵🇱 PL🇵🇱 | 217.30.10.18-9094 | 153.18ms, server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ}
+  - {name: 🇫🇷 FR🇫🇷 | 51.15.15.82-989 | 137.21ms, server: 51.15.15.82, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇵🇱 PL🇵🇱 | 217.30.10.18-9038 | 154.5ms, server: 217.30.10.18, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ}
+  - {name: 🇵🇱 PL🇵🇱 | 217.30.10.18-9084 | 160.47ms, server: 217.30.10.18, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj}
+  - {name: 🇺🇸 US🇺🇸 | 54.201.174.149-443 | 33.71ms, server: 54.201.174.149, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇯🇵 JP🇯🇵 | 54.178.191.236-443 | 150.93ms, server: 54.178.191.236, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇰🇷 KR🇰🇷 | 43.203.243.93-443 | 135.73ms, server: 43.203.243.93, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇺🇸 US🇺🇸 | 34.222.136.128-443 | 33.94ms, server: 34.222.136.128, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇰🇷 KR🇰🇷 | 3.38.212.48-443 | 135.64ms, server: 3.38.212.48, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇯🇵 JP🇯🇵 | 18.179.197.216-443 | 108.84ms, server: 18.179.197.216, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇵🇱 PL🇵🇱 | 217.30.10.18-9064 | 155.88ms, server: 217.30.10.18, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH}
+  - {name: 🇵🇱 PL🇵🇱 | 217.30.10.18-9003 | 153.08ms, server: 217.30.10.18, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP}
+  - {name: 🇵🇱 PL🇵🇱 | 217.30.10.18-9020 | 154.24ms, server: 217.30.10.18, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu}
+  - {name: 🇬🇧 GB🇬🇧 | 212.102.53.193-443 | 135.77ms, server: 212.102.53.193, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇺🇸 US🇺🇸 | 37.19.198.244-443 | 64.36ms, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7}
+  - {name: 🇺🇸 US🇺🇸 | 37.19.198.236-443 | 64.26ms, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7}
+  - {name: 🇺🇸 US🇺🇸 | 37.19.198.160-443 | 64.43ms, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7}
+  - {name: 🇬🇧 GB🇬🇧 | 212.102.53.198-443 | 136.03ms, server: 212.102.53.198, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7}
+  - {name: 🇺🇸 US🇺🇸 | 173.244.56.6-443 | 16.04ms, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7}
+  - {name: 🇬🇧 GB🇬🇧 | 141.98.101.178-443 | 138.84ms, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7}
+  - {name: 🇺🇸 US🇺🇸 | 184.170.241.194-443 | 20.78ms, server: 184.170.241.194, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks}
+  - {name: 🇬🇧 GB🇬🇧 | 109.120.186.9-23022 | 152.21ms, server: 109.120.186.9, port: 23022, type: ss, cipher: chacha20-ietf-poly1305, password: s#W0tqg%@N}
+  - {name: 🇳🇱 NL🇳🇱 | 208.67.105.87-42501 | 139.03ms, server: 208.67.105.87, port: 42501, type: ss, cipher: chacha20-ietf-poly1305, password: nq96KftrZAj3LuFQESqmn44Mo5oCuo2cipoEsae25mrmHG2oJ4VT37scBfVBpN5DWtUELZutVhhXs8Le5B8fZ9hLn9ytwvbf}
+  - {name: 🇺🇸 US🇺🇸 | 52.237.155.68-443 | 52.78ms, server: 52.237.155.68, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mzyYriPYYnCWDxoy}
+  - {name: 🇬🇧 GB🇬🇧 | series-a2.varzesh360.co-443 | 192.81ms, server: series-a2.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg}
+  - {name: 🇬🇧 GB🇬🇧 | series-a2.samanehha.co-443 | 141.67ms, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg}
+  - {name: 🇺🇸 US🇺🇸 | 205.134.180.139-443 | 65.79ms, server: 205.134.180.139, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lWaGPVFjmnag7}
+  - {name: 🇵🇱 PL🇵🇱 | 92.118.205.228-990 | 159.89ms, server: 92.118.205.228, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: LV🇱🇻 | 46.183.217.232-990 | 154.56ms, server: 46.183.217.232, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: LT🇱🇹 | 45.87.175.181-8080 | 139.98ms, server: 45.87.175.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: LT🇱🇹 | 45.87.175.178-8080 | 144.16ms, server: 45.87.175.178, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
+  - {name: CZ🇨🇿 | 94.131.97.22-5139 | 151.84ms, server: 94.131.97.22, port: 5139, type: ss, cipher: chacha20-ietf-poly1305, password: cN5RRTw7vYadEdRcdIduix}
+  - {name: 🇬🇧 GB🇬🇧 | series-a1.samanehha.co-443 | 248.77ms, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA}
+  - {name: NO🇳🇴 | 51.13.115.55-40826 | 154.98ms, server: 51.13.115.55, port: 40826, type: ss, cipher: chacha20-ietf-poly1305, password: MZRSFDJxkMhGytZaw3NLHl}
+  - {name: 🇨🇦 CA🇨🇦 | 142.4.216.225-80 | 78.38ms, server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq}
+  - {name: BH🇧🇭 | series-a2-me.varzesh360.co-443 | 255.45ms, server: series-a2-me.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ}
+  - {name: AT🇦🇹 | 95.164.9.144-2927 | 146.92ms, server: 95.164.9.144, port: 2927, type: ss, cipher: chacha20-ietf-poly1305, password: ug4Fu79SEREdFGlt2sUyT4}
+  - {name: AE🇦🇪 | series-a2-mec.varzesh360.co-443 | 246.31ms, server: series-a2-mec.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c}
+  - {name: AE🇦🇪 | series-a2-mec.samanehha.co-443 | 246.42ms, server: series-a2-mec.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c}
+  - {name: AE🇦🇪 | api.namasha.co-443 | 388.97ms, server: api.namasha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c}
+  - {name: LT🇱🇹 | 45.87.175.178-8080 | 144.09ms, server: 45.87.175.178, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
+  - {name: LT🇱🇹 | 45.87.175.171-8080 | 139.92ms, server: 45.87.175.171, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
+  - {name: 🇺🇸 US🇺🇸 | 205.134.180.150-443 | 66.3ms, server: 205.134.180.150, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 5cp9Z3iWnJZ27}
+  - {name: LT🇱🇹 | 45.87.175.188-8080 | 140.01ms, server: 45.87.175.188, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
+  - {name: LT🇱🇹 | 45.87.175.157-8080 | 143.95ms, server: 45.87.175.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa}
