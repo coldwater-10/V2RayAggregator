@@ -566,11 +566,11 @@ merge nodes w/o dup: `5258`
 - [hkaa0/permalink](https://github.com/hkaa0), number of nodes: `132`
 - [hsb4657/v2ray](https://github.com/hsb4657), number of nodes: `38`
 - [junwei380](https://github.com/junwei380), number of nodes: `15`
-- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `114`
+- [mahsanet/MahsaFreeConfig](https://github.com/mahsanet), number of nodes: `112`
 - [mlabalabala/v2ray-node](https://github.com/mlabalabala), number of nodes: `58`
 - [peasoft/NoMoreWalls](https://github.com/peasoft), number of nodes: `78`
 - [resasanian/Mirza](https://github.com/resasanian), number of nodes: `62`
-- [ripaojiedian/freenode](https://github.com/ripaojiedian), number of nodes: `22`
+- [ripaojiedian/freenode](https://github.com/ripaojiedian), number of nodes: `21`
 - [sun9426/v2ray](https://github.com/sun9426), number of nodes: `6`
 - [ts-sf/fly](https://github.com/ts-sf), number of nodes: `201`
 - [voken100g/AutoSSR](https://github.com/voken100g), number of nodes: `19`
